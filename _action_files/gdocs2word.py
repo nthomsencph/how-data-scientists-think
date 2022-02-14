@@ -52,5 +52,7 @@ if __name__ == "__main__":
 
     with open("_word/gdocs_named_paths.json") as j:
         named_urls = json.load(j)
-
-    download_gdocs(named_urls)
+        
+    named_urls.pop("<title>", None)
+    if named_urls:
+        download_gdocs(named_urls)
