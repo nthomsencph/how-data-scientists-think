@@ -23,9 +23,14 @@ a:hover {
     color: $high-emph !important;
 }
 
+.site-title {
+    text-align: left;
+}
+
 .site-nav {
     background-color: $dark-grey;
     border-color: #2b2d37; //$overlay-light;
+    text-align: right;
 }
 
 * {
