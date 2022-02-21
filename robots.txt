@@ -1,1 +1,1 @@
-Sitemap: https://nthomsencph.github.io/the-pyble/sitemap.xml
+Sitemap: https://nthomsencph.github.io/how-data-scientists-think/sitemap.xml
