@@ -11,6 +11,7 @@ html, body, input, textarea, select, button {
   background-color: $dark-grey !important;
 }
 
+
 a {
     color: rgb(75, 186, 255) !important;
 }
@@ -25,12 +26,14 @@ a:hover {
 
 .site-title {
     text-align: left;
+    color:red;
 }
 
 .site-nav {
+    text-align: right;
+    color:red;
     background-color: $dark-grey;
     border-color: #2b2d37; //$overlay-light;
-    text-align: right;
 }
 
 * {
