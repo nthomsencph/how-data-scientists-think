@@ -437,9 +437,9 @@ a:hover { color: rgba(255, 255, 255, 0.87) !important; }
 
 .site-title, .site-title:visited, .site-nav, .page-link { color: rgba(255, 255, 255, 0.87) !important; }
 
-.site-title { text-align: left; }
+.site-title { text-align: left; color: red; }
 
-.site-nav { background-color: #121212; border-color: #2b2d37; text-align: right; }
+.site-nav { text-align: right; color: red; background-color: #121212; border-color: #2b2d37; }
 
 * { scrollbar-color: #121212 #333333; }
 
