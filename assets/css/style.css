@@ -379,13 +379,13 @@ h1:hover .anchor-link, h2:hover .anchor-link, h3:hover .anchor-link, h4:hover .a
 
 .category-tags-icon { font-size: 75% !important; padding-left: 0.375em; opacity: 35%; }
 
-.category-tags-link { color: #bb8181 !important; font-size: 13px !important; }
+.category-tags-link { color: white !important; font-size: 13px !important; }
 
 .js-search-results { padding-top: 0.2rem; }
 
 .search-results-list-item { padding-bottom: 1rem; }
 
-.search-results-list-item .search-result-title { font-size: 16px; color: #d9230f; }
+.search-results-list-item .search-result-title { font-size: 16px; color: #0f9cd9; }
 
 .search-result-rel-url { color: silver; }
 
@@ -437,7 +437,7 @@ a:hover { color: rgba(255, 255, 255, 0.87) !important; }
 
 .site-title, .site-title:visited, .site-nav, .page-link { color: rgba(255, 255, 255, 0.87) !important; }
 
-.site-nav { background-color: #121212; border-color: #333333; }
+.site-nav { background-color: #121212; border-color: #2b2d37; }
 
 * { scrollbar-color: #121212 #333333; }
 
